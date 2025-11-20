@@ -11,7 +11,7 @@ La tokenización es el primer paso del parsing. Convierte la entrada del usuario
 ```
 ┌─────────────────────────────────────┐
 │    INICIO: Leer línea de entrada    │
-│         (readline)                   │
+│               (readline)            │
 └──────────────┬──────────────────────┘
                │
                ▼
